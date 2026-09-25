@@ -45,7 +45,7 @@ No API key is needed, because Frankfurter is free and doesn't use keys. That mea
 ### Run
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MidoRoshdy/EFG-Assessment.git
 cd EFG-Assessment
 flutter pub get
 flutter run
